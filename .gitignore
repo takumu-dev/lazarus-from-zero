@@ -1,0 +1,11 @@
+# Free Pascal and Lazarus build output
+lib/
+backup/
+*.o
+*.ppu
+*.compiled
+*.lps
+
+# Site and PDF build output
+/build/
+node_modules/
